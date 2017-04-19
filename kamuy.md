@@ -16,5 +16,6 @@ Android 4.1 (Jellybean) or higher
 * Libraries can be accessed offline.
 * List or grid view.
 
-**Downloads:**
-* [Kamuy 1.0.0](https://bitbucket.org/cylonu87/kamuy/downloads/Kamuy-1.0.0-full-release.apk)
+**Downloads:** [Kamuy 1.0.0](https://bitbucket.org/cylonu87/kamuy/downloads/Kamuy-1.0.0-full-release.apk)
+
+**Screenshots:** [here](http://imgur.com/a/Z5hPN)
