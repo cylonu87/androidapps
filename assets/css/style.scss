@@ -9,6 +9,12 @@ table td, table td:first-child {
   border-left: 0px solid;
 }
 
-h1 {
-  color: black;
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0366d6;
+  text-decoration: underline;
 }
