@@ -4,9 +4,8 @@
 @import "{{ site.theme }}";
 
 
-table td, table td:first-child {
-  border: 0px solid;
-  border-left: 0px solid;
+h1 {
+  font-weight: 700;
 }
 
 a {
