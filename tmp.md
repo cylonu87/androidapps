@@ -108,3 +108,7 @@ All of the free manga found on this app are hosted on third-party servers that a
 
 **Downloads:**
 * [Mangafox Reader 3.3.0](https://bitbucket.org/cylonu87/mangafox-reader/downloads/MangafoxReader-3.3.0-full-release.apk)
+
+
+
+[![xxx](animedlr114.png "Day calendar")](https://bitbucket.org/cylonu87/mangafox-reader/downloads/MangafoxReader-3.3.0-full-release.apk)
