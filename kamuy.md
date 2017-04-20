@@ -5,6 +5,7 @@
 Kamuy is an unofficial android client for MyAnimeList, Kitsu, AniList, Anime-Planet to track your anime and manga.
 You cannot watch anime/read manga with this app, the goal of this app is tracking your watching/reading progress.
 
+
 ## Requirements
 Android 4.1 (Jellybean) or higher
 
