@@ -18,3 +18,6 @@ Android 4.0 (ICS) or higher
 
 ## Downloads
 [AnimeDLR 1.15.2](https://bitbucket.org/cylonu87/animedlr/downloads/AnimeDLR-1.15.2-full-release.apk)
+
+## Links
+[![AnimeDLR's subreddit](https://www.redditstatic.com/spreddit5.gif "AnimeDLR's subreddit")](https://www.reddit.com/r/AnimeDLR/)
