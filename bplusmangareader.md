@@ -3,7 +3,8 @@
 ![B+ Manga Reader](images/bmangareader114.png?style=logoapp "B+ Manga Reader")
 
 B+ Manga Reader is an online manga reader for Batoto that helps you search and read thousands of manga, manhwa or manhua online from Batoto on your android device.
-&nbsp;
+
+
 
 ## Requirements
 Android 4.0 (ICS) or higher
