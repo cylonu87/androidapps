@@ -17,7 +17,7 @@ Android 4.0 (ICS) or higher
 * Watch your anime online or offline.
 
 ## Downloads
-[AnimeDLR 1.15.2](https://bitbucket.org/cylonu87/animedlr/downloads/AnimeDLR-1.15.2-full-release.apk)
+[AnimeDLR 1.15.3](https://bitbucket.org/cylonu87/animedlr/downloads/AnimeDLR-1.15.3-full-release.apk)
 
 ## Links
 <a href="https://www.reddit.com/r/AnimeDLR/"><img src="images/reddit_alien.png" alt="AnimeDLR's subreddit" title="AnimeDLR's subreddit" style="max-width:100%;" height="40"></a>
