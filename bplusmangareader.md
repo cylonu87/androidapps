@@ -25,6 +25,9 @@ Android 4.0 (ICS) or higher
 ## Downloads
 * [B+ Manga Reader 2.9.0](https://bitbucket.org/cylonu87/b-manga-reader/downloads/BplusMangaReader-2.9.0-full-release.apk)
 
+## Screenshots
+<a href="https://imgur.com/a/ghdpB"><img src="http://imgur.com/images/imgur-logo.svg?style=logoimgur" alt="Screenshots" title="B+ Manga Reader's screenshots" style="max-width:100%" height="40"></a>
+
 ## Links
 <a href="https://twitter.com/Panic_Soft"><img src="images/Twitter_Logo_Blue.png" alt="PanicSoft's twitter" title="PanicSoft's twitter" style="max-width:100%;" height="40"></a>
 <a href="https://bitbucket.org/cylonu87/b-manga-reader/issues"><img src="images/bitbucket.png" alt="Bitbucket" title="Issues" style="max-width:100%;" height="40"></a>
