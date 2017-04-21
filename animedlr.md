@@ -19,6 +19,9 @@ Android 4.0 (ICS) or higher
 ## Downloads
 [AnimeDLR 1.15.3](https://bitbucket.org/cylonu87/animedlr/downloads/AnimeDLR-1.15.3-full-release.apk)
 
+## Screenshots
+<a href="https://imgur.com/a/qIiY2"><img src="http://imgur.com/images/imgur-logo.svg?style=logoimgur" alt="Screenshots" title="AnimeDLR's screenshots" style="max-width:100%" height="40"></a>
+
 ## Links
 <a href="https://www.reddit.com/r/AnimeDLR/"><img src="images/reddit_alien.png" alt="AnimeDLR's subreddit" title="AnimeDLR's subreddit" style="max-width:100%;" height="40"></a>
 <a href="https://twitter.com/Panic_Soft"><img src="images/Twitter_Logo_Blue.png" alt="PanicSoft's twitter" title="PanicSoft's twitter" style="max-width:100%;" height="40"></a>
