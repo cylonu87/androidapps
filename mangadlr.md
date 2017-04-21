@@ -24,6 +24,9 @@ Android 4.0 (ICS) or higher
 * [MangaDLR 5.0.8](https://bitbucket.org/cylonu87/mangadlr/downloads/MangaDLR-5.0.8-full-release.apk)
 * [MangaDLR 5.0.8 + extra](https://bitbucket.org/cylonu87/mangadlr/downloads/MangaDLR-5.0.8-full_extra-release.apk)
 
+## Screenshots
+<a href="https://imgur.com/a/dEetM"><img src="http://imgur.com/images/imgur-logo.svg?style=logoimgur" alt="Screenshots" title="MangaDLR's screenshots" style="max-width:100%" height="40"></a>
+
 ## Links
 <a href="https://www.reddit.com/r/MangaDLR/"><img src="images/reddit_alien.png" alt="MangaDLR's subreddit" title="MangaDLR's subreddit" style="max-width:100%;" height="40"></a>
 <a href="https://twitter.com/Panic_Soft"><img src="images/Twitter_Logo_Blue.png" alt="PanicSoft's twitter" title="PanicSoft's twitter" style="max-width:100%;" height="40"></a>
