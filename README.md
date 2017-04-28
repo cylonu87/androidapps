@@ -23,13 +23,11 @@ You cannot watch anime/read manga with this app, the goal of this app is trackin
 ## [B+ Manga Reader](bplusmangareader.md)
 B+ Manga Reader is an online manga reader for Batoto that helps you search and read thousands of manga, manhwa or manhua online from Batoto on your android device.
 
-<a href="https://twitter.com/Panic_Soft"><img src="images/Twitter_Logo_Blue.png" alt="PanicSoft's twitter" title="PanicSoft's twitter" style="max-width:100%;" height="20"></a>
 <a href="https://bitbucket.org/cylonu87/b-manga-reader/issues"><img src="images/bitbucket.png" alt="Bitbucket" title="Issues" style="max-width:100%;" height="20"></a>
 
 ## [Mangafox Reader](mangafoxreader.md)
 Mangafox Reader help you search and read thousands of manga online from mangafox.com on you android device.
 
-<a href="https://twitter.com/Panic_Soft"><img src="images/Twitter_Logo_Blue.png" alt="PanicSoft's twitter" title="PanicSoft's twitter" style="max-width:100%;" height="20"></a>
 <a href="https://bitbucket.org/cylonu87/mangafox-reader/issues"><img src="images/bitbucket.png" alt="Bitbucket" title="Issues" style="max-width:100%;" height="20"></a>
 
 ## [Legacy](legacy.md)
