@@ -1,4 +1,4 @@
-# Cylon-U87
+# Cylon-U87 <a href="https://twitter.com/Panic_Soft"><img src="images/Twitter_Logo_Blue.png" alt="PanicSoft's twitter" title="PanicSoft's twitter" style="max-width:100%;" height="40" align="right"></a>
 **This is a collection of android apps to read, watch and track you manga and anime.**
 
 ## [AnimeDLR](animedlr.md)
