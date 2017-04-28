@@ -1,4 +1,4 @@
-# Cylon-U87 <a href="https://twitter.com/Panic_Soft"><img src="images/Twitter_Logo_Blue.png" alt="PanicSoft's twitter" title="PanicSoft's twitter" style="max-width:100%;" height="40" align="right"></a>
+# Cylon-U87 <a href="https://twitter.com/Panic_Soft"><img src="images/Twitter_Logo_Blue.png" alt="PanicSoft's twitter" title="PanicSoft's twitter" style="max-width:100%" height="40" align="right"></a><a href="https://www.reddit.com/user/cylon_u87/"><img src="images/reddit_alien.png" alt="Cylonu87 on reddit" title="Cylonu87" style="max-width:100%;" height="30" align="right"></a>
 **This is a collection of android apps to read, watch and track you manga and anime.**
 
 ## [AnimeDLR](animedlr.md)
