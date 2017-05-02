@@ -22,7 +22,7 @@ Android 4.1 (Jellybean) or higher
 * List or grid view.
 
 ## Downloads
-[Kamuy 1.1.0](https://bitbucket.org/cylonu87/kamuy/downloads/Kamuy-1.1.0-full-release.apk)
+[Kamuy 1.2.0](https://bitbucket.org/cylonu87/kamuy/downloads/Kamuy-1.2.0-full-release.apk)
 
 ## Screenshots
 <a href="http://imgur.com/a/Z5hPN"><img src="http://imgur.com/images/imgur-logo.svg?style=logoimgur" alt="Screenshots" title="Kamuy's screenshots" style="max-width:100%" height="40"></a>
