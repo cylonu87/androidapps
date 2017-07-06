@@ -2,7 +2,7 @@
 
 ![Kamuy](images/kamuy114.png?style=logoapp "Kamuy")
 
-Kamuy is an unofficial android client for MyAnimeList, Kitsu, AniList, Anime-Planet to track your anime and manga.
+Kamuy is an unofficial android client for MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart, MyDramaList to track your anime and manga.
 
 You cannot watch anime/read manga with this app, the goal of this app is tracking your watching/reading progress.
 
@@ -22,7 +22,7 @@ Android 4.1 (Jellybean) or higher
 * List or grid view.
 
 ## Downloads
-[Kamuy 1.7.0](https://bitbucket.org/cylonu87/kamuy/downloads/Kamuy-1.7.0-full-release.apk)
+[Kamuy 1.8.0](https://bitbucket.org/cylonu87/kamuy/downloads/Kamuy-1.8.0-full-release.apk)
 
 ## Screenshots
 <a href="http://imgur.com/a/Z5hPN"><img src="http://imgur.com/images/imgur-logo.svg?style=logoimgur" alt="Screenshots" title="Kamuy's screenshots" style="max-width:100%" height="40"></a>
