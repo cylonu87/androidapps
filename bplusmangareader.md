@@ -23,7 +23,7 @@ Android 4.1 (jellybean) or higher
 * You don't need to download the chapter before you can read it, you can read it immediately.
 
 ## Downloads
-* [B+ Manga Reader 3.0.3](https://bitbucket.org/cylonu87/b-manga-reader/downloads/BplusMangaReader-3.0.3-full-release.apk)
+* [B+ Manga Reader 3.0.4](https://bitbucket.org/cylonu87/b-manga-reader/downloads/BplusMangaReader-3.0.4-full-release.apk)
 * [B+ Manga Reader 2.9.0 for ICS](https://bitbucket.org/cylonu87/b-manga-reader/downloads/BplusMangaReader-2.9.0-full-release.apk)
 
 ## Screenshots
