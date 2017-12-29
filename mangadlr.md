@@ -21,8 +21,8 @@ Android 4.0 (ICS) or higher
 * Export your download in pdf, epub3
 
 ## Downloads
-* [MangaDLR 5.7.2](https://bitbucket.org/cylonu87/mangadlr/downloads/MangaDLR-5.7.2-full-release.apk)
-* [MangaDLR 5.7.2 + extra](https://bitbucket.org/cylonu87/mangadlr/downloads/MangaDLR-5.7.2-full_extra-release.apk)
+* [MangaDLR 5.7.6](https://bitbucket.org/cylonu87/mangadlr/downloads/MangaDLR-5.7.6-full-release.apk)
+* [MangaDLR 5.7.6 + extra](https://bitbucket.org/cylonu87/mangadlr/downloads/MangaDLR-5.7.6-full_extra-release.apk)
 
 ## Screenshots
 <a href="https://imgur.com/a/dEetM"><img src="http://imgur.com/images/imgur-logo.svg?style=logoimgur" alt="Screenshots" title="MangaDLR's screenshots" style="max-width:100%" height="40"></a>
