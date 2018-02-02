@@ -21,7 +21,7 @@ Android 4.0 (ICS) or higher
 * Log in with your mangafox account to get your online bookmarks
 
 ## Downloads
-* [Mangafox Reader 3.3.7](https://bitbucket.org/cylonu87/mangafox-reader/downloads/MangafoxReader-3.3.7-full-release.apk)
+* [Mangafox Reader 3.3.8](https://bitbucket.org/cylonu87/mangafox-reader/downloads/MangafoxReader-3.3.8-full-release.apk)
 
 ## Screenshots
 <a href="https://imgur.com/a/9zPBr"><img src="http://imgur.com/images/imgur-logo.svg?style=logoimgur" alt="Screenshots" title="Mangafox Reader's screenshots" style="max-width:100%" height="40"></a>
