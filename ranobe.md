@@ -20,6 +20,7 @@ Android 4.4 (Kitkat) or higher
 
 
 ## Screenshots
+<a href="https://imgur.com/a/Kg3tP"><img src="http://imgur.com/images/imgur-logo.svg?style=logoimgur" alt="Screenshots" title="Ranobe screenshots" style="max-width:100%" height="40"></a>
 
 
 ## Links
