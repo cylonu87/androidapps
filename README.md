@@ -23,6 +23,7 @@ You cannot watch anime/read manga with this app, the goal of this app is trackin
 ## [Ranobe](ranobe.md)
 Ranobe is an application that allows you to read light novel (japanese, chinese, korean) online or you can add them into your library to read them offline on your android device. You can keep track of the chapters read, add series in your favorites.
 
+<a href="https://www.reddit.com/r/ranobe/"><img src="images/reddit_alien.png" alt="Kamuy's subreddit" title="Ranobe subreddit" style="max-width:100%;" height="20"></a>
 <a href="https://bitbucket.org/cylonu87/ranobe/issues"><img src="images/bitbucket.png" alt="Bitbucket" title="Issues" style="max-width:100%;" height="20"></a>
 
 ## [Mangafox Reader](mangafoxreader.md)
@@ -32,8 +33,6 @@ Mangafox Reader help you search and read thousands of manga online from mangafox
 
 ## [B+ Manga Reader](bplusmangareader.md)
 B+ Manga Reader is an online manga reader for Batoto that helps you search and read thousands of manga, manhwa or manhua online from Batoto on your android device.
-
-<a href="https://bitbucket.org/cylonu87/b-manga-reader/issues"><img src="images/bitbucket.png" alt="Bitbucket" title="Issues" style="max-width:100%;" height="20"></a>
 
 ## [Legacy](legacy.md)
 Old apps not maintained anymore.
