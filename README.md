@@ -1,5 +1,5 @@
 # Cylon-U87 <a href="https://twitter.com/Panic_Soft"><img src="images/Twitter_Logo_Blue.png" alt="PanicSoft's twitter" title="PanicSoft's twitter" style="max-width:100%" height="40" align="right"></a><a href="https://www.reddit.com/user/cylon_u87/"><img src="images/reddit_alien.png" alt="Cylonu87 on reddit" title="Cylonu87" style="max-width:100%;" height="30" align="right"></a>
-**This is a collection of android apps to read, watch and track you manga and anime.**
+**This is a collection of android apps to read, watch and track you manga, anime and light novels.**
 
 ## [AnimeDLR](animedlr.md)
 AnimeDLR is an application that allows you to grab anime, cartoon and drama episodes on streaming sites so you can watch them online (no need to download the episode before watching it) or offline (the episode is downloaded before you can watch it) on your android device. You can keep track of the episodes watched, add series in your favorites.
