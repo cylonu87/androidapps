@@ -20,7 +20,7 @@ You cannot watch anime/read manga with this app, the goal of this app is trackin
 <a href="https://www.reddit.com/r/Kamuy/"><img src="images/reddit_alien.png" alt="Kamuy's subreddit" title="Kamuy's subreddit" style="max-width:100%;" height="20"></a>
 <a href="https://bitbucket.org/cylonu87/kamuy/issues"><img src="images/bitbucket.png" alt="Bitbucket" title="Issues" style="max-width:100%;" height="20"></a>
 
-## [B+ Manga Reader](bplusmangareader.md)
+## [Ranobe](ranobe.md)
 B+ Manga Reader is an online manga reader for Batoto that helps you search and read thousands of manga, manhwa or manhua online from Batoto on your android device.
 
 <a href="https://bitbucket.org/cylonu87/b-manga-reader/issues"><img src="images/bitbucket.png" alt="Bitbucket" title="Issues" style="max-width:100%;" height="20"></a>
@@ -29,6 +29,11 @@ B+ Manga Reader is an online manga reader for Batoto that helps you search and r
 Mangafox Reader help you search and read thousands of manga online from mangafox.com on you android device.
 
 <a href="https://bitbucket.org/cylonu87/mangafox-reader/issues"><img src="images/bitbucket.png" alt="Bitbucket" title="Issues" style="max-width:100%;" height="20"></a>
+
+## [B+ Manga Reader](bplusmangareader.md)
+B+ Manga Reader is an online manga reader for Batoto that helps you search and read thousands of manga, manhwa or manhua online from Batoto on your android device.
+
+<a href="https://bitbucket.org/cylonu87/b-manga-reader/issues"><img src="images/bitbucket.png" alt="Bitbucket" title="Issues" style="max-width:100%;" height="20"></a>
 
 ## [Legacy](legacy.md)
 Old apps not maintained anymore.
