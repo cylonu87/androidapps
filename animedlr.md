@@ -5,7 +5,7 @@
 AnimeDLR is an application that allows you to grab anime, cartoon and drama episodes on streaming sites so you can watch them online (no need to download the episode before watching it) or offline (the episode is downloaded before you can watch it) on your android device. You can keep track of the episodes watched, add series in your favorites.
 
 ## Requirements
-Android 4.0 (ICS) or higher
+Android 4.1 (Jellybean) or higher
 
 ## Disclaimer
 *All of the free anime found on this app are hosted on third-party servers that are freely available to watch online for all internet users. Any legal issues regarding the free online anime should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the anime, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law.*
@@ -17,7 +17,7 @@ Android 4.0 (ICS) or higher
 * Watch your anime online or offline.
 
 ## Downloads
-[AnimeDLR 3.1.1](https://bitbucket.org/cylonu87/animedlr/downloads/AnimeDLR-3.1.1-full-release.apk)
+[AnimeDLR 3.2.0](https://bitbucket.org/cylonu87/animedlr/downloads/AnimeDLR-3.2.0-full-release.apk)
 
 ## Screenshots
 <a href="https://imgur.com/a/qIiY2"><img src="http://imgur.com/images/imgur-logo.svg?style=logoimgur" alt="Screenshots" title="AnimeDLR's screenshots" style="max-width:100%" height="40"></a>
