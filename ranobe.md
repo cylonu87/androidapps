@@ -17,7 +17,7 @@ Android 4.4 (Kitkat) or higher
 * Read online or offline.
 
 ## Downloads
-[Ranobe 1.5.0](https://bitbucket.org/cylonu87/ranobe/downloads/Ranobe-1.5.0-full-release.apk)
+[Ranobe 1.6.0](https://bitbucket.org/cylonu87/ranobe/downloads/Ranobe-1.6.0-full-release.apk)
 
 ## Screenshots
 <a href="https://imgur.com/a/Kg3tP"><img src="http://imgur.com/images/imgur-logo.svg?style=logoimgur" alt="Screenshots" title="Ranobe screenshots" style="max-width:100%" height="40"></a>
