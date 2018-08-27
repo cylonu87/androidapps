@@ -5,7 +5,7 @@
 MangaDLR is an android manga reader and downloader that helps you to download your manga, manhwa and comics from many online readers and save them in zip archives so you can read them offline. You can read them with its viewer or another image/picture viewer app without an internet connection, transfer these files to another device or computer,...
 
 ## Requirements
-Android 4.0 (ICS) or higher
+Android 4.1 (jellybean) or higher
 
 ## Disclaimer
 *All of the free manga found on this app are hosted on third-party servers that are freely available to read online for all internet users. Any legal issues regarding the free online manga should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the manga, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law.*
@@ -21,8 +21,8 @@ Android 4.0 (ICS) or higher
 * Export your download in pdf, epub3
 
 ## Downloads
-* [MangaDLR 5.7.8](https://bitbucket.org/cylonu87/mangadlr/downloads/MangaDLR-5.7.8-full-release.apk)
-* [MangaDLR 5.7.8 + extra](https://bitbucket.org/cylonu87/mangadlr/downloads/MangaDLR-5.7.8-full_extra-release.apk)
+* [MangaDLR 6.0.0](https://bitbucket.org/cylonu87/mangadlr/downloads/MangaDLR-6.0.0-full-release.apk)
+* [MangaDLR 6.0.0 + extra](https://bitbucket.org/cylonu87/mangadlr/downloads/MangaDLR-6.0.0-full_extra-release.apk)
 
 ## Screenshots
 <a href="https://imgur.com/a/dEetM"><img src="http://imgur.com/images/imgur-logo.svg?style=logoimgur" alt="Screenshots" title="MangaDLR's screenshots" style="max-width:100%" height="40"></a>
