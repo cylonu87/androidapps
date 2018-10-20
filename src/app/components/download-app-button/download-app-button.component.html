@@ -1,0 +1,10 @@
+<ng-container *ngIf="downloadInfo">
+    <a class="btn" [ngClass]="cssClass"  [href]="downloadInfo.file">
+        <i class="fa fa-download"></i>&nbsp;Download
+    </a>
+    <p>
+        Version: {{ downloadInfo.version }}
+        <ng-template [ngIf]="showFlavor"><br/>({{ flavor }})</ng-template>
+    </p>
+</ng-container>
+

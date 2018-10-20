@@ -1,0 +1,97 @@
+<main class="container" role="main">
+
+  <nav class="navbar navbar-expand-lg navbar-dark" [ngClass]="menuBackgroundClass">
+    <a class="navbar-brand" routerLink=''>Home</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"
+      (click)="toggle()">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent" [class.show]="menuOpened">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" routerLink='animedlr'>AnimeDLR</a>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" routerLink='mangadlr'>MangaDLR</a>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" routerLink='ranobe'>Ranobe</a>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" routerLink='kamuy'>Kamuy</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <router-outlet></router-outlet>
+</main>
+
+<footer class="footer container">
+  <div class="text-white" [ngClass]="menuBackgroundClass">
+      <div class="row">
+          <div class="col-md-3"></div>
+          <div class="col-md-2 h5">Cylon U87</div>
+          <div class="col-md-2"></div>
+          <div class="col-md-2 h5">Contact</div>
+          <div class="col-md-3"></div>
+      </div>
+
+      <div class="row">
+          <div class="col-md-3"></div>
+          <div class="col-md-2">
+              <span class="icon">
+                <img src="favicon-16x16.png">
+              </span>    
+              <a [routerLink]="['/']">Home</a>
+          </div>
+          <div class="col-md-2"></div>
+          <div class="col-md-2">
+              <span class="icon">
+                  <i class="fa fa-reddit-alien"></i>
+              </span>    
+              <a href="https://www.reddit.com/u/cylon_u87" target="_blank">Reddit</a>
+          </div>
+          <div class="col-md-3"></div>
+      </div>
+
+      <div class="row">
+          <div class="col-md-3"></div>
+          <div class="col-md-2">
+            <span class="icon">
+              <i class="fa fa-home"></i>
+            </span>
+            <a href="https://cyberneticlifeform.wixsite.com/cylonu87/" target="_blank">Apps</a>
+          </div>
+
+          <div class="col-md-2"></div>
+
+          <div class="col-md-2">
+              <span class="icon">
+                  <img src="assets/discord.svg" style="width: 20px; height: 20px; margin: -4px">
+              </span>
+              <a href="https://discord.gg/R7VabXm" target="_blank">Discord</a>
+          </div>
+          <div class="col-md-3"></div>
+      </div>
+
+      <div class="row">
+          <div class="col-md-3"></div>
+          <div class="col-md-2">
+              <span class="icon">
+                  <i class="fa fa-heart"></i>
+                </span>
+                <a href="https://cylonu87.github.io/HDLR/" target="_blank">H-DLR</a>
+          </div>
+          <div class="col-md-2"></div>
+          <div class="col-md-2">
+              <span class="icon">
+                  <i class="fa fa-twitter"></i>
+              </span>    
+              <a href="https://twitter.com/Panic_Soft" target="_blank">Twitter</a>
+          </div>
+          <div class="col-md-3"></div>
+      </div>
+  </div>
+</footer>

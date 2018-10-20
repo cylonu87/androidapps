@@ -1,0 +1,13 @@
+footer a {
+    color: white;
+}
+
+span.icon {
+    display: inline-block;
+    width: 24px;
+}
+
+footer div.row {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}

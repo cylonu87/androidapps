@@ -1,0 +1,17 @@
+.logo {
+    display: none;
+}
+
+@media (min-width: 768px) {
+    .logo {
+        display: initial;
+    }
+}
+
+.app-card {
+    cursor: pointer;
+}
+
+.app-card:hover {
+    background-color: lightgray !important;;
+}

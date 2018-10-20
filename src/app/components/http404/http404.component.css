@@ -1,0 +1,22 @@
+
+div {
+    color: gray;
+}
+
+@media (min-width: 320px) {
+    .fa.fa-warning {
+        font-size: 200px
+    }
+    p {
+        font-size: 32px
+    }
+}
+
+@media (min-width: 768px) {
+    .fa.fa-warning {
+        font-size: 400px
+    }
+    p {
+        font-size: 64px;
+    }
+}
