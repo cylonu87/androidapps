@@ -4,12 +4,22 @@ import { catchError } from 'rxjs/operators'
 import { HttpErrorResponse } from '@angular/common/http';
 import { throwError } from 'rxjs';
 import { Downloads } from '../../models/downloads';
+import { trigger, state, style, transition, animate } from '@angular/animations';
 
 
 @Component({
   selector: 'download-app-button',
   templateUrl: './download-app-button.component.html',
-  styleUrls: ['./download-app-button.component.css']
+  styleUrls: ['./download-app-button.component.css'],
+  animations: [
+    trigger ('fadeIn', [
+      state('hidden', style({opacity: 0})),
+      state('shown', style({opacity: 1})),
+      transition('hidden => shown', [
+        animate(1000)
+      ])
+    ])
+  ]
 })
 export class DownloadAppButtonComponent implements OnInit {
   @Input() user: string;
@@ -19,6 +29,7 @@ export class DownloadAppButtonComponent implements OnInit {
   @Input() showFlavor: boolean = false;
   @Input() cssClass: string;
   downloadInfo = null;
+  visible = false
 
   constructor(private downloadAppService: DownloadAppService) { }
 
@@ -57,6 +68,7 @@ export class DownloadAppButtonComponent implements OnInit {
               size: size,
               downloads: downloadsCount
             }
+            this.visible = true
            }
         }
 

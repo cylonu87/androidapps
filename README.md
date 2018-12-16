@@ -1,6 +1,6 @@
 # AndroidApps
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 
 ## Development server
 
@@ -13,6 +13,9 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```
+ng build --prod --aot=true --build-optimizer=true --optimization=true --progress=true --extractLicenses=false --base-href https://cylonu87.github.io/androidapps/
+```
 
 ## Running unit tests
 

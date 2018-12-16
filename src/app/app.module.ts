@@ -2,6 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { RouterModule} from '@angular/router'
 import { HttpClientModule } from '@angular/common/http';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations'
 
 import { NgxImageGalleryModule } from 'ngx-image-gallery';
 
@@ -29,7 +30,7 @@ import { Http404Component } from './components/http404/http404.component';
     Http404Component
   ],
   imports: [
-    BrowserModule, HttpClientModule,
+    BrowserModule, HttpClientModule, BrowserAnimationsModule,
     RouterModule.forRoot( [
       {path: '', component: HomeComponent},
       {path: 'animedlr', component: AnimedlrComponent},

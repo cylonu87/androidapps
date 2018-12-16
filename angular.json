@@ -24,7 +24,8 @@
               "src/favicon-64x64.png",
               "src/favicon-96x96.png",
               "src/favicon-128x128.png",
-              "src/assets"
+              "src/assets",
+              "src/404.html"
             ],
             "styles": [
               "src/styles.scss"
@@ -85,7 +86,8 @@
               "src/favicon-64x64.png",
               "src/favicon-96x96.png",
               "src/favicon-128x128.png",
-              "src/assets"
+              "src/assets",
+              "src/404.html"
             ]
           }
         },

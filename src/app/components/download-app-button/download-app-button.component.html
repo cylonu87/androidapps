@@ -1,10 +1,11 @@
-<ng-container *ngIf="downloadInfo">
-    <a class="btn" [ngClass]="cssClass"  [href]="downloadInfo.file">
+<ng-container>
+    <a class="btn" [ngClass]="cssClass" [href]="downloadInfo == null ? '#' : downloadInfo.file" [@fadeIn]="visible ? 'shown' : 'hidden'">
         <i class="fa fa-download"></i>&nbsp;Download
     </a>
-    <p>
-        Version: {{ downloadInfo.version }}
-        <ng-template [ngIf]="showFlavor"><br/>({{ flavor }})</ng-template>
+    <p [@fadeIn]="visible ? 'shown' : 'hidden'">
+        Version: {{ downloadInfo == null ? '' : downloadInfo.version }}
+        <ng-template [ngIf]="showFlavor"><br/>{{ downloadInfo == null ? '' : '(' +  flavor + ')' }}</ng-template>
     </p>
 </ng-container>
+
 
