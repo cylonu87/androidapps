@@ -1,0 +1,9 @@
+<h2>Changelog:</h2>
+<div *ngIf="changelog">
+    <div *ngFor="let log of changelog">
+        <div class="header">Version {{ log.version }}</div>
+        <ol>
+            <li *ngFor="let change of log.changes">{{ change }}</li>
+        </ol>
+    </div>
+</div>

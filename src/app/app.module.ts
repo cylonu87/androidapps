@@ -16,6 +16,8 @@ import { DownloadAppService } from './services/download-app.service';
 import { KamuyComponent } from './components/kamuy/kamuy.component';
 import { RanobeComponent } from './components/ranobe/ranobe.component';
 import { Http404Component } from './components/http404/http404.component';
+import { ChangelogComponent } from './components/changelog/changelog.component';
+import { ChangelogService } from './services/changelog.service';
 
 @NgModule({
   declarations: [
@@ -27,7 +29,8 @@ import { Http404Component } from './components/http404/http404.component';
     MangadlrComponent,
     KamuyComponent,
     RanobeComponent,
-    Http404Component
+    Http404Component,
+    ChangelogComponent
   ],
   imports: [
     BrowserModule, HttpClientModule, BrowserAnimationsModule,
@@ -45,7 +48,7 @@ import { Http404Component } from './components/http404/http404.component';
     NgxImageGalleryModule
 
   ],
-  providers: [DownloadAppService],
+  providers: [DownloadAppService, ChangelogService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
