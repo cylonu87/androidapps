@@ -19,6 +19,8 @@ import { Http404Component } from './components/http404/http404.component';
 import { ChangelogComponent } from './components/changelog/changelog.component';
 import { ChangelogService } from './services/changelog.service';
 
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -45,7 +47,8 @@ import { ChangelogService } from './services/changelog.service';
       {path: '**', redirectTo: '/404'}
     ]),
 
-    NgxImageGalleryModule
+    NgxImageGalleryModule,
+	FontAwesomeModule
 
   ],
   providers: [DownloadAppService, ChangelogService],

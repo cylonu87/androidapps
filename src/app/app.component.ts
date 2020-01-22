@@ -2,6 +2,9 @@ import { Component } from '@angular/core';
 import { Router, NavigationEnd } from '@angular/router';
 import { filter } from 'rxjs/operators';
 
+import { faHeart, faHome } from '@fortawesome/free-solid-svg-icons';
+import { faRedditAlien,faDiscord,faTwitter } from '@fortawesome/free-brands-svg-icons';
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -11,6 +14,11 @@ export class AppComponent {
   menuOpened: boolean = false;
   menuBackgroundClass = ""
 
+  faRedditAlien = faRedditAlien
+  faDiscord = faDiscord
+  faTwitter = faTwitter
+  faHeart = faHeart
+  faHome = faHome
   
   constructor(private router: Router) {
       router.events.pipe(

@@ -6,6 +6,7 @@ import { throwError } from 'rxjs';
 import { Downloads } from '../../models/downloads';
 import { trigger, state, style, transition, animate } from '@angular/animations';
 
+import { faDownload } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'download-app-button',
@@ -30,6 +31,8 @@ export class DownloadAppButtonComponent implements OnInit {
   @Input() cssClass: string;
   downloadInfo = null;
   visible = false
+
+  faDownload = faDownload
 
   constructor(private downloadAppService: DownloadAppService) { }
 

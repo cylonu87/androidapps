@@ -1,6 +1,6 @@
 <ng-container>
     <a class="btn" [ngClass]="cssClass" [href]="downloadInfo == null ? '#' : downloadInfo.file" [@fadeIn]="visible ? 'shown' : 'hidden'">
-        <i class="fa fa-download"></i>&nbsp;Download
+		<fa-icon [icon]="faDownload"></fa-icon>&nbsp;Download
     </a>
     <p [@fadeIn]="visible ? 'shown' : 'hidden'">
         Version: {{ downloadInfo == null ? '' : downloadInfo.version }}

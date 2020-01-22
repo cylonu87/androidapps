@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { imagesGalleryConf, imagesKamuy } from 'src/environments/environment';
 
+import { faRedditAlien,faBitbucket,faPatreon } from '@fortawesome/free-brands-svg-icons';
 
 @Component({
   selector: 'app-kamuy',
@@ -9,6 +10,10 @@ import { imagesGalleryConf, imagesKamuy } from 'src/environments/environment';
 })
 export class KamuyComponent implements OnInit {
   constructor() { }
+
+  faRedditAlien = faRedditAlien
+  faBitbucket = faBitbucket
+  faPatreon = faPatreon
 
   ngOnInit() {
   }

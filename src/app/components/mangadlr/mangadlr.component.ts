@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { imagesGalleryConf, imagesMangaDLR } from 'src/environments/environment';
 
+import { faRedditAlien,faBitbucket,faPatreon } from '@fortawesome/free-brands-svg-icons';
 
 @Component({
   selector: 'app-mangadlr',
@@ -9,6 +10,10 @@ import { imagesGalleryConf, imagesMangaDLR } from 'src/environments/environment'
 })
 export class MangadlrComponent implements OnInit {
   constructor() { }
+
+  faRedditAlien = faRedditAlien
+  faBitbucket = faBitbucket
+  faPatreon = faPatreon
 
   ngOnInit() {
   }
